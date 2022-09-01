@@ -3,6 +3,7 @@ Chapter 1
 -The standard Lorem Ipsum passage, used since the 1500s
 -Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 -1914 translation by H. Rackham
+Chapter 2
 -Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 -1914 translation by H. Rackham
 -At vero eos et accusamus et iusto odio dignissimos ducimus
